@@ -1,7 +1,7 @@
 # ST3PH-FORTH // Interactive WebAssembly-Styled IDE & Runtime
 
-[![License: MIT](https://shields.io)](https://github.com/ST3PH-X/interactive-forth-wasm-ide/blob/main/LICENSE)
-[![Live Demo](https://shields.io)](https://st3ph-x.github.io/interactive-forth-wasm-ide/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-00ffaa.svg?style=flat-square)](https://github.com/ST3PH-X/interactive-forth-wasm-ide/blob/main/LICENSE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-9d4edd.svg?style=flat-square)](https://st3ph-x.github.io/interactive-forth-wasm-ide/)
 
 An ultra-lightweight, zero-dependency, Turing-complete **Forth Development Environment** and virtual machine engine written in pure vanilla JavaScript. This platform emulates low-level hardware interactions, physical linear memory routing, and hardware I/O interrupts. 
 
